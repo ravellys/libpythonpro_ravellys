@@ -3,7 +3,9 @@ Módulo para exemplificar modulos em python PyTools
 
 Nesse curso é ensinado como contribuir em projetos de código aberto
 
-Link do site [Python Pro]('https://python.pro.br/')
+Link do site [Python Pro](https://python.pro.br/)
+
+[![Build Status](https://travis-ci.com/ravellys/libpythonpro_ravellys.svg?branch=master)](https://travis-ci.com/ravellys/libpythonpro_ravellys)
 
 Suportada versão 3 de python.
 
