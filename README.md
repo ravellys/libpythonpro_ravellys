@@ -5,7 +5,7 @@ Nesse curso é ensinado como contribuir em projetos de código aberto
 
 Link do site [Python Pro]('https://python.pro.br/')
 
-Suportada versão 3 de python
+Suportada versão 3 de python.
 
 Para instalar:
 ```
