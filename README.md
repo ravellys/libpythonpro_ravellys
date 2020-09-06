@@ -8,6 +8,7 @@ Link do site [Python Pro](https://python.pro.br/)
 [![Build Status](https://travis-ci.com/ravellys/libpythonpro_ravellys.svg?branch=master)](https://travis-ci.com/ravellys/libpythonpro_ravellys)
 [![Updates](https://pyup.io/repos/github/ravellys/libpythonpro_ravellys/shield.svg)](https://pyup.io/repos/github/ravellys/libpythonpro_ravellys/)
 [![Python 3](https://pyup.io/repos/github/ravellys/libpythonpro_ravellys/python-3-shield.svg)](https://pyup.io/repos/github/ravellys/libpythonpro_ravellys/)
+[![codecov](https://codecov.io/gh/ICSMP/libpythonpro_ravellys/branch/master/graph/badge.svg)](https://codecov.io/gh/ICSMP/libpythonpro_ravellys)
 
 Suportada versão 3 de python.
 
