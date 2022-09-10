@@ -4,14 +4,14 @@ url = "https://pypi.org/simple"
 verify_ssl = true
 
 [dev-packages]
+coverage = "*"
 flake8 = "*"
 pytest = "*"
-coverage = "*"
 pytest-cov = "*"
 pytest-mock = "*"
 
 [packages]
-certifi = "==2020.6.20"
+certifi = "==2022.6.15.1"
 chardet = "==3.0.4"
 idna = "==2.10"
 requests = "==2.24.0"
